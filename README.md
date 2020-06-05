@@ -1,4 +1,4 @@
-# SOLUTION7_TCS_OPA_JAVA
+# SOLUTION7_OOPS_JAVA
 Problem Statement
 
 Create class Medicine with below attributes: MedicineName - String batch - String disease - String price - int
